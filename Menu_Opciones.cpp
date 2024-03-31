@@ -11,7 +11,7 @@
 #include "EE_Cajero.cpp"
 #include "MA_CalcEdad.cpp"
 #include "MA_ConvMoneda.cpp"
-#include "MA_GenNombre.cpp"
+#include "MA_ContLetras.cpp"
 #include "MA_Hipotenusa.cpp"
 #include "MA_SimDados.cpp"
 
@@ -39,10 +39,10 @@ int main(){
         cout<<"14. Mover un punto en toda la pantalla"<<endl;
 		cout<<"15. Simulacion de un Cajero (Automata)"<<endl;
        	cout<<"16. Calcular la hipotenusa"<<endl;
-		cout<<"17. libre"<<endl;
-		cout<<"18. libre"<<endl;
-		cout<<"19. libre"<<endl;
-		cout<<"20. libre"<<endl;
+		cout<<"17. Calculadora de Edad"<<endl;
+		cout<<"18. Conversion de Moneda"<<endl;
+		cout<<"19. Simulador de Dado"<<endl;
+		cout<<"20. Contador de Letras"<<endl;
 		cout<<"0. SALIR"<<endl;
 		cout<<"--------------------------------"<<endl;
 		cout<<"Eliga un progama, para inciar"<<endl;

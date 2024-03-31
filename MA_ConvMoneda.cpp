@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+void opcion18() {
     double cantidad;
     std::cout << "Ingrese la cantidad en Dolares: ";
     std::cin >> cantidad;
@@ -9,5 +9,4 @@ int main() {
 
     std::cout << cantidad << " Dolares equivalen a " << cantidadQ << " Quetzales" << std::endl;
 
-    return 0;
 }

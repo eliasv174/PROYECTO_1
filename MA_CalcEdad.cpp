@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+void opcion17(){
     int Nacimiento;
     std::cout << "Ingresa tu año de nacimiento: ";
     std::cin >> Nacimiento;
@@ -10,5 +10,4 @@ int main() {
 
     std::cout << "Tu edad es: " << edad << " años" << std::endl;
 
-    return 0;
 }
