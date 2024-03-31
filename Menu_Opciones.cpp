@@ -9,6 +9,11 @@
 #include "EE_FigurasGeometricas.cpp"
 #include "EE_PuntoPantalla.cpp"
 #include "EE_Cajero.cpp"
+#include "MA_CalcEdad.cpp"
+#include "MA_ConvMoneda.cpp"
+#include "MA_GenNombre.cpp"
+#include "MA_Hipotenusa.cpp"
+#include "MA_SimDados.cpp"
 
 using namespace std; 
 
