@@ -9,6 +9,7 @@
 #include "EE_FigurasGeometricas.cpp"
 #include "EE_PuntoPantalla.cpp"
 #include "EE_Cajero.cpp"
+<<<<<<< HEAD
 #include "Arabigos a Romanos.cpp"
 #include "conversiones.cpp"
 #include "Ndecimal a Letras.cpp"
@@ -16,6 +17,14 @@
 #include "Numeros a Letras.cpp"
 #include "Palindromos.cpp"
 #include "Operaciones.cpp"
+=======
+#include "MA_CalcEdad.cpp"
+#include "MA_ConvMoneda.cpp"
+#include "MA_ContLetras.cpp"
+#include "MA_Hipotenusa.cpp"
+#include "MA_SimDados.cpp"
+
+>>>>>>> 158b19672326514431f4cfbfb7694f60fd170e4c
 using namespace std; 
 
 int main(){
@@ -40,10 +49,10 @@ int main(){
         cout<<"14. Mover un punto en toda la pantalla"<<endl;
 		cout<<"15. Simulacion de un Cajero (Automata)"<<endl;
        	cout<<"16. Calcular la hipotenusa"<<endl;
-		cout<<"17. libre"<<endl;
-		cout<<"18. libre"<<endl;
-		cout<<"19. libre"<<endl;
-		cout<<"20. libre"<<endl;
+		cout<<"17. Calculadora de Edad"<<endl;
+		cout<<"18. Conversion de Moneda"<<endl;
+		cout<<"19. Simulador de Dado"<<endl;
+		cout<<"20. Contador de Letras"<<endl;
 		cout<<"0. SALIR"<<endl;
 		cout<<"--------------------------------"<<endl;
 		cout<<"Eliga un progama, para inciar"<<endl;
