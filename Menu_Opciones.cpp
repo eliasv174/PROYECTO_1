@@ -9,7 +9,13 @@
 #include "EE_FigurasGeometricas.cpp"
 #include "EE_PuntoPantalla.cpp"
 #include "EE_Cajero.cpp"
-
+#include "Arabigos a Romanos.cpp"
+#include "conversiones.cpp"
+#include "Ndecimal a Letras.cpp"
+#include "numero impar o par.cpp"
+#include "Numeros a Letras.cpp"
+#include "Palindromos.cpp"
+#include "Operaciones.cpp"
 using namespace std; 
 
 int main(){
