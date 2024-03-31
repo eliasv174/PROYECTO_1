@@ -9,12 +9,22 @@
 #include "EE_FigurasGeometricas.cpp"
 #include "EE_PuntoPantalla.cpp"
 #include "EE_Cajero.cpp"
+<<<<<<< HEAD
+#include "Arabigos a Romanos.cpp"
+#include "conversiones.cpp"
+#include "Ndecimal a Letras.cpp"
+#include "numero impar o par.cpp"
+#include "Numeros a Letras.cpp"
+#include "Palindromos.cpp"
+#include "Operaciones.cpp"
+=======
 #include "MA_CalcEdad.cpp"
 #include "MA_ConvMoneda.cpp"
 #include "MA_ContLetras.cpp"
 #include "MA_Hipotenusa.cpp"
 #include "MA_SimDados.cpp"
 
+>>>>>>> 158b19672326514431f4cfbfb7694f60fd170e4c
 using namespace std; 
 
 int main(){
